@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=ADC4 Pin=J5-12
+Removed Pin From Net: NetName=ADC5 Pin=J5-13
+Removed Pin From Net: NetName=ADC6 Pin=J5-14
+Added Component: Designator=R23(0603-1)
+Added Component: Designator=R24(0603-1)
+Added Component: Designator=R25(0603-1)
+Added Pin To Net: NetName=ADC6 Pin=R23-2
+Added Pin To Net: NetName=ADC5 Pin=R24-2
+Added Pin To Net: NetName=ADC4 Pin=R25-2
+Added Pin To Net: NetName=C_ADC1 Pin=J5-12
+Added Pin To Net: NetName=C_ADC1 Pin=R25-1
+Added Net: Name=C_ADC1
+Added Pin To Net: NetName=C_ADC2 Pin=J5-13
+Added Pin To Net: NetName=C_ADC2 Pin=R24-1
+Added Net: Name=C_ADC2
+Added Pin To Net: NetName=C_ADC3 Pin=J5-14
+Added Pin To Net: NetName=C_ADC3 Pin=R23-1
+Added Net: Name=C_ADC3
+Added Member To Class: ClassName=采集卡 Member=Component R23 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R24 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R25 Res1

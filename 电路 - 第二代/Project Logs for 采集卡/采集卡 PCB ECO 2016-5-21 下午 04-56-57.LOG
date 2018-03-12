@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3V3 Pin=*4-19
+Removed Pin From Net: NetName=+IN Pin=J1-1
+Removed Pin From Net: NetName=-IN Pin=J2-1
+Removed Pin From Net: NetName=3V3 Pin=J4-1
+Added Component: Designator=*5(SOIC8_N)
+Added Component: Designator=P?(HDR2X1_A)
+Added Component: Designator=P?(HDR2X1_A)
+Added Component: Designator=R43(0603-1)
+Added Pin To Net: NetName=3V3 Pin=*4-18
+Added Pin To Net: NetName=3V3 Pin=*5-2
+Added Pin To Net: NetName=-5V Pin=*5-4
+Added Pin To Net: NetName=SGND Pin=*5-5
+Added Pin To Net: NetName=+5V Pin=*5-7
+Change Net Name : Old Net Name=+IN New Net Name=C5+
+Change Net Name : Old Net Name=-IN New Net Name=C5-
+Change Net Name : Old Net Name=3V3 New Net Name=C3-
+Added Pin To Net: NetName=C3+ Pin=*5-3
+Added Pin To Net: NetName=C3+ Pin=Fuse2-2
+Added Pin To Net: NetName=C3+ Pin=R12-1
+Added Net: Name=C3+
+Added Pin To Net: NetName=C3 Pin=*4-17
+Added Pin To Net: NetName=C3 Pin=*5-6
+Added Net: Name=C3
+Added Pin To Net: NetName=C5 Pin=*4-19
+Added Pin To Net: NetName=C5 Pin=*5-6
+Added Net: Name=C5
+Added Member To Class: ClassName=采集卡 Member=Component C35 Cap
+Added Member To Class: ClassName=采集卡 Member=Component P? Header 2
+Added Member To Class: ClassName=采集卡 Member=Component R8 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R12 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R43 Res1

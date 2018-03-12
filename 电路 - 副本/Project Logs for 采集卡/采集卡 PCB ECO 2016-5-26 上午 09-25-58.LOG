@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=GND NewDesignator=P1
+Added Pin To Net: NetName=NetGPS-NEO-6M_8 Pin=GPS-NEO-6M-8
+Added Pin To Net: NetName=NetGPS-NEO-6M_8 Pin=GPS-NEO-6M-9
+Added Pin To Net: NetName=NetGPS-NEO-6M_8 Pin=R26-2
+Added Net: Name=NetGPS-NEO-6M_8

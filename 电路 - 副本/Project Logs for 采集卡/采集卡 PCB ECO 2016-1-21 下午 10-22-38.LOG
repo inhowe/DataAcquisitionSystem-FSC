@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=RST Pin=D4-1
+Removed Pin From Net: NetName=NetD5_2 Pin=D4-2
+Removed Pin From Net: NetName=NetD9_1 Pin=D7-1
+Removed Pin From Net: NetName=NetD3_1 Pin=R11-1
+Removed Pin From Net: NetName=5V Pin=R11-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R14-1
+Added Component: Designator=D5(DIODE-1206)
+Added Component: Designator=D9(LED_0805)
+Added Component: Designator=R12(8-RL-0603)
+Added Component: Designator=R16(8-RL-0603)
+Added Pin To Net: NetName=3V3 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=RST Pin=D4-1
+Added Pin To Net: NetName=NetD5_2 Pin=D4-2
+Added Pin To Net: NetName=3V3 Pin=D7-1
+Added Pin To Net: NetName=NetD9_1 Pin=D7-1
+Added Pin To Net: NetName=LED2 Pin=D7-2
+Added Pin To Net: NetName=RX1 Pin=R11-1
+Added Pin To Net: NetName=NetD4_2 Pin=R11-2
+Added Pin To Net: NetName=NetD3_1 Pin=R11-1
+Added Pin To Net: NetName=5V Pin=R11-2
+Added Pin To Net: NetName=TX1 Pin=R14-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R14-1
+Added Pin To Net: NetName=NetCH1_13 Pin=R14-2
+Added Pin To Net: NetName=TX1 Pin=U1-68
+Added Pin To Net: NetName=RX1 Pin=U1-69
+Added Member To Class: ClassName=采集卡 Member=Component D5 Diode
+Added Member To Class: ClassName=采集卡 Member=Component R12 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R16 Res1
+Added Room: Name=采集卡

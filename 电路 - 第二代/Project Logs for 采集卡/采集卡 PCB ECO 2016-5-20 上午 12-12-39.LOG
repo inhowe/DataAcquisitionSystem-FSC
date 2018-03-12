@@ -1,0 +1,143 @@
+Removed Pin From Net: NetName=左前 Pin=*3-3
+Removed Pin From Net: NetName=左后 Pin=*3-5
+Removed Pin From Net: NetName=右后 Pin=*4-3
+Removed Pin From Net: NetName=-5V Pin=*4-4
+Removed Pin From Net: NetName=右前 Pin=*4-5
+Removed Pin From Net: NetName=+5V Pin=*4-8
+Removed Pin From Net: NetName=ADC_IN1 Pin=*5-3
+Removed Pin From Net: NetName=-5V Pin=*5-4
+Removed Pin From Net: NetName=ADC_IN2 Pin=*5-5
+Removed Pin From Net: NetName=+5V Pin=*5-8
+Removed Pin From Net: NetName=ADC_IN3 Pin=*6-3
+Removed Pin From Net: NetName=-5V Pin=*6-4
+Removed Pin From Net: NetName=C_ADC_IN1 Pin=*6-5
+Removed Pin From Net: NetName=+5V Pin=*6-8
+Removed Pin From Net: NetName=C_ADC_IN2 Pin=*7-3
+Removed Pin From Net: NetName=-5V Pin=*7-4
+Removed Pin From Net: NetName=C_ADC_IN3 Pin=*7-5
+Removed Pin From Net: NetName=+5V Pin=*7-8
+Removed Pin From Net: NetName=Net*3_6 Pin=R29-1
+Removed Pin From Net: NetName=SGND Pin=R30-2
+Removed Pin From Net: NetName=左前 Pin=R31-2
+Removed Pin From Net: NetName=左后 Pin=R32-1
+Removed Pin From Net: NetName=SGND Pin=R32-2
+Removed Pin From Net: NetName=SGND Pin=R33-1
+Removed Pin From Net: NetName=SGND Pin=R36-2
+Removed Pin From Net: NetName=SGND Pin=R41-1
+Removed Pin From Net: NetName=右后 Pin=R41-2
+Removed Pin From Net: NetName=右前 Pin=R42-1
+Removed Pin From Net: NetName=SGND Pin=R42-2
+Removed Pin From Net: NetName=SGND Pin=R43-1
+Removed Pin From Net: NetName=SGND Pin=R50-2
+Removed Pin From Net: NetName=SGND Pin=R51-1
+Removed Pin From Net: NetName=ADC_IN1 Pin=R51-2
+Removed Pin From Net: NetName=ADC_IN2 Pin=R52-1
+Removed Pin From Net: NetName=SGND Pin=R52-2
+Removed Pin From Net: NetName=SGND Pin=R54-1
+Removed Pin From Net: NetName=SGND Pin=R62-2
+Removed Pin From Net: NetName=SGND Pin=R64-1
+Removed Pin From Net: NetName=ADC_IN3 Pin=R64-2
+Removed Pin From Net: NetName=C_ADC_IN1 Pin=R65-1
+Removed Pin From Net: NetName=SGND Pin=R65-2
+Removed Pin From Net: NetName=SGND Pin=R66-1
+Removed Pin From Net: NetName=SGND Pin=R73-2
+Removed Pin From Net: NetName=SGND Pin=R74-1
+Removed Pin From Net: NetName=C_ADC_IN2 Pin=R74-2
+Removed Pin From Net: NetName=C_ADC_IN3 Pin=R75-1
+Removed Pin From Net: NetName=SGND Pin=R75-2
+Removed Pin From Net: NetName=NetR63_1 Pin=Signal1-2
+Removed Pin From Net: NetName=NetR60_1 Pin=Signal1-3
+Removed Pin From Net: NetName=NetR53_1 Pin=Signal1-4
+Removed Pin From Net: NetName=PWM3 Pin=STM1-26
+Removed Member From Class: ClassName=采集卡 Member=*4
+Removed Member From Class: ClassName=采集卡 Member=*5
+Removed Member From Class: ClassName=采集卡 Member=R29
+Removed Member From Class: ClassName=采集卡 Member=R30
+Removed Member From Class: ClassName=采集卡 Member=R32
+Removed Member From Class: ClassName=采集卡 Member=R33
+Removed Member From Class: ClassName=采集卡 Member=R34
+Removed Member From Class: ClassName=采集卡 Member=R35
+Removed Member From Class: ClassName=采集卡 Member=R36
+Added Component: Designator=*(SOP16)
+Added Component: Designator=*(SOP16)
+Added Component: Designator=R27(0603-1)
+Added Component: Designator=R28(0603-1)
+Added Component: Designator=R31(0603-1)
+Added Pin To Net: NetName=ADC_IN1 Pin=*-1
+Added Pin To Net: NetName=IO1 Pin=*-1
+Added Pin To Net: NetName=ADC_IN3 Pin=*-2
+Added Pin To Net: NetName=IO3 Pin=*-2
+Added Pin To Net: NetName=ADC_IN2 Pin=*-5
+Added Pin To Net: NetName=IO2 Pin=*-5
+Added Pin To Net: NetName=SGND Pin=*-7
+Added Pin To Net: NetName=SGND Pin=*-7
+Added Pin To Net: NetName=SGND Pin=*-8
+Added Pin To Net: NetName=SGND Pin=*-8
+Added Pin To Net: NetName=IO0 Pin=*-12
+Added Pin To Net: NetName=右前 Pin=*-12
+Added Pin To Net: NetName=C_ADC_IN1 Pin=*-13
+Added Pin To Net: NetName=左前 Pin=*-13
+Added Pin To Net: NetName=C_ADC_IN2 Pin=*-14
+Added Pin To Net: NetName=左后 Pin=*-14
+Added Pin To Net: NetName=C_ADC_IN3 Pin=*-15
+Added Pin To Net: NetName=右后 Pin=*-15
+Added Pin To Net: NetName=+5V Pin=*-16
+Added Pin To Net: NetName=+5V Pin=*-16
+Added Pin To Net: NetName=SGND Pin=R27-2
+Added Pin To Net: NetName=Net*3_6 Pin=R28-1
+Added Pin To Net: NetName=SGND Pin=R31-2
+Added Pin To Net: NetName=NetR63_1 Pin=Signal1-1
+Added Pin To Net: NetName=NetR60_1 Pin=Signal1-2
+Added Pin To Net: NetName=NetR53_1 Pin=Signal1-3
+Added Pin To Net: NetName=ADC_A Pin=R27-1
+Added Pin To Net: NetName=ADC_A Pin=R28-2
+Added Pin To Net: NetName=ADC_A Pin=STM1-26
+Added Net: Name=ADC_A
+Added Pin To Net: NetName=ADC_B Pin=R27-1
+Added Pin To Net: NetName=ADC_B Pin=R28-2
+Added Pin To Net: NetName=ADC_B Pin=STM1-29
+Added Net: Name=ADC_B
+Added Pin To Net: NetName=ADC_IN4 Pin=*-4
+Added Pin To Net: NetName=ADC_IN4 Pin=Signal1-4
+Added Net: Name=ADC_IN4
+Added Pin To Net: NetName=COM_A Pin=*3-3
+Added Pin To Net: NetName=COM_A Pin=*-3
+Added Pin To Net: NetName=COM_A Pin=R31-2
+Added Net: Name=COM_A
+Added Pin To Net: NetName=COM_B Pin=*3-5
+Added Pin To Net: NetName=COM_B Pin=*-3
+Added Pin To Net: NetName=COM_B Pin=R31-1
+Added Net: Name=COM_B
+Added Pin To Net: NetName=CTR_A Pin=*-11
+Added Pin To Net: NetName=CTR_A Pin=*-11
+Added Net: Name=CTR_A
+Added Pin To Net: NetName=CTR_B Pin=*-10
+Added Pin To Net: NetName=CTR_B Pin=*-10
+Added Net: Name=CTR_B
+Added Pin To Net: NetName=CTR_C Pin=*-9
+Added Pin To Net: NetName=CTR_C Pin=*-9
+Added Net: Name=CTR_C
+Added Pin To Net: NetName=INH_A Pin=*-6
+Added Pin To Net: NetName=INH_A Pin=STM1-30
+Added Net: Name=INH_A
+Added Pin To Net: NetName=INH_B Pin=*-6
+Added Pin To Net: NetName=INH_B Pin=STM1-31
+Added Net: Name=INH_B
+Added Member To Class: ClassName=采集卡 Member=Component * CD4051
+Added Member To Class: ClassName=采集卡 Member=Component R28 0.1%
+Added Member To Class: ClassName=采集卡 Member=Component R45 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R46 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R47 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R48 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R53 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R56 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R57 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R58 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R59 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R60 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R63 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R68 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R69 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R70 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R71 Res1
+Added Room: Name=采集卡

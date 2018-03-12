@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetL2_1 Pin=R25-1
+Removed Pin From Net: NetName=Net*4_9 Pin=R25-2
+Change Component DesignItemId : Designator=R26 Old DesignItemId=Res1 New DesignItemId=RES
+Change Component DesignItemId : Designator=R25 Old DesignItemId=RES New DesignItemId=Res1
+Change Component Comment : Designator=R25 Old Comment=10 New Comment=Res1
+Change Component Comment : Designator=R26 Old Comment=Res1 New Comment=10
+Change Component Description : Designator=R25 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R26 Old Description=ÌùÆ¬µç×è New Description=
+Change Component Library : Designator=R25 Old Library=Free Documents.IntLib New Library=fszhang.SchLib
+Change Component Library : Designator=R26 Old Library=fszhang.SchLib New Library=Free Documents.IntLib
+Added Pin To Net: NetName=C_ADC1 Pin=R25-1
+Added Pin To Net: NetName=ADC4 Pin=R25-2
+Added Pin To Net: NetName=NetL2_1 Pin=R26-1
+Added Pin To Net: NetName=Net*4_9 Pin=R26-2

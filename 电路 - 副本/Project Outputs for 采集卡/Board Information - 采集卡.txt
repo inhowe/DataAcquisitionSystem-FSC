@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\Disk E\Formula Student China\电气\2016\数据采集系统\电路\采集卡.PcbDoc
+Date         : 2016/5/26
+Time         : 上午 09:26:19
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 272
+    Connections routed, 272
+    Connections remaining, 0
+count : 4

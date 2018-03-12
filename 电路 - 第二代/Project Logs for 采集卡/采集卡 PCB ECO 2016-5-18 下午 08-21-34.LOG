@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=C_ADC1 Pin=R53-1
+Removed Pin From Net: NetName=ADC4 Pin=R53-2
+Removed Pin From Net: NetName=C_ADC2 Pin=R60-1
+Removed Pin From Net: NetName=ADC5 Pin=R60-2
+Removed Pin From Net: NetName=C_ADC3 Pin=R63-1
+Removed Pin From Net: NetName=ADC6 Pin=R63-2
+Removed Pin From Net: NetName=C_ADC_IN3 Pin=Signal1-2
+Removed Pin From Net: NetName=C_ADC_IN2 Pin=Signal1-3
+Removed Pin From Net: NetName=C_ADC_IN1 Pin=Signal1-4
+Added Pin To Net: NetName=C_ADC_IN1 Pin=R53-2
+Added Pin To Net: NetName=C_ADC_IN2 Pin=R60-2
+Added Pin To Net: NetName=C_ADC_IN3 Pin=R63-2
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=Signal1-4
+Added Net: Name=NetR53_1
+Added Pin To Net: NetName=NetR60_1 Pin=R60-1
+Added Pin To Net: NetName=NetR60_1 Pin=Signal1-3
+Added Net: Name=NetR60_1
+Added Pin To Net: NetName=NetR63_1 Pin=R63-1
+Added Pin To Net: NetName=NetR63_1 Pin=Signal1-2
+Added Net: Name=NetR63_1

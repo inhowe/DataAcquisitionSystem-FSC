@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C3
+Added Component: Designator=J3(USB_MICRO)
+Added Pin To Net: NetName=5V Pin=J3-1
+Added Pin To Net: NetName=SWCLK Pin=J3-2
+Added Pin To Net: NetName=SWDIO Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC9_2
+Added Member To Class: ClassName=采集卡 Member=Component J3 USB_M
+Added Room: Name=采集卡

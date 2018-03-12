@@ -1,0 +1,169 @@
+Removed Pin From Net: NetName=左前 Pin=*3-3
+Removed Pin From Net: NetName=左后 Pin=*3-5
+Removed Pin From Net: NetName=右后 Pin=*4-3
+Removed Pin From Net: NetName=-5V Pin=*4-4
+Removed Pin From Net: NetName=右前 Pin=*4-5
+Removed Pin From Net: NetName=+5V Pin=*4-8
+Removed Pin From Net: NetName=ADC_IN1 Pin=*5-3
+Removed Pin From Net: NetName=-5V Pin=*5-4
+Removed Pin From Net: NetName=ADC_IN2 Pin=*5-5
+Removed Pin From Net: NetName=+5V Pin=*5-8
+Removed Pin From Net: NetName=ADC_IN3 Pin=*6-3
+Removed Pin From Net: NetName=-5V Pin=*6-4
+Removed Pin From Net: NetName=C_ADC_IN1 Pin=*6-5
+Removed Pin From Net: NetName=+5V Pin=*6-8
+Removed Pin From Net: NetName=C_ADC_IN2 Pin=*7-3
+Removed Pin From Net: NetName=-5V Pin=*7-4
+Removed Pin From Net: NetName=C_ADC_IN3 Pin=*7-5
+Removed Pin From Net: NetName=+5V Pin=*7-8
+Removed Pin From Net: NetName=Net*3_6 Pin=R29-1
+Removed Pin From Net: NetName=SGND Pin=R30-2
+Removed Pin From Net: NetName=左前 Pin=R31-2
+Removed Pin From Net: NetName=左后 Pin=R32-1
+Removed Pin From Net: NetName=SGND Pin=R33-1
+Removed Pin From Net: NetName=SGND Pin=R36-2
+Removed Pin From Net: NetName=SGND Pin=R41-1
+Removed Pin From Net: NetName=右后 Pin=R41-2
+Removed Pin From Net: NetName=右前 Pin=R42-1
+Removed Pin From Net: NetName=SGND Pin=R42-2
+Removed Pin From Net: NetName=SGND Pin=R43-1
+Removed Pin From Net: NetName=SGND Pin=R50-2
+Removed Pin From Net: NetName=SGND Pin=R51-1
+Removed Pin From Net: NetName=ADC_IN1 Pin=R51-2
+Removed Pin From Net: NetName=ADC_IN2 Pin=R52-1
+Removed Pin From Net: NetName=SGND Pin=R52-2
+Removed Pin From Net: NetName=SGND Pin=R54-1
+Removed Pin From Net: NetName=SGND Pin=R62-2
+Removed Pin From Net: NetName=SGND Pin=R64-1
+Removed Pin From Net: NetName=ADC_IN3 Pin=R64-2
+Removed Pin From Net: NetName=C_ADC_IN1 Pin=R65-1
+Removed Pin From Net: NetName=SGND Pin=R65-2
+Removed Pin From Net: NetName=SGND Pin=R66-1
+Removed Pin From Net: NetName=SGND Pin=R73-2
+Removed Pin From Net: NetName=SGND Pin=R74-1
+Removed Pin From Net: NetName=C_ADC_IN2 Pin=R74-2
+Removed Pin From Net: NetName=C_ADC_IN3 Pin=R75-1
+Removed Pin From Net: NetName=SGND Pin=R75-2
+Removed Pin From Net: NetName=PWM3 Pin=STM1-26
+Removed Member From Class: ClassName=采集卡 Member=*6
+Removed Member From Class: ClassName=采集卡 Member=*7
+Removed Member From Class: ClassName=采集卡 Member=R52
+Removed Member From Class: ClassName=采集卡 Member=R53
+Removed Member From Class: ClassName=采集卡 Member=R54
+Removed Member From Class: ClassName=采集卡 Member=R55
+Removed Member From Class: ClassName=采集卡 Member=R56
+Removed Member From Class: ClassName=采集卡 Member=R57
+Removed Member From Class: ClassName=采集卡 Member=R58
+Removed Member From Class: ClassName=采集卡 Member=R59
+Removed Member From Class: ClassName=采集卡 Member=R60
+Removed Member From Class: ClassName=采集卡 Member=R61
+Removed Member From Class: ClassName=采集卡 Member=R62
+Removed Member From Class: ClassName=采集卡 Member=R63
+Removed Member From Class: ClassName=采集卡 Member=R64
+Removed Member From Class: ClassName=采集卡 Member=R65
+Removed Member From Class: ClassName=采集卡 Member=R66
+Removed Member From Class: ClassName=采集卡 Member=R67
+Removed Member From Class: ClassName=采集卡 Member=R68
+Removed Member From Class: ClassName=采集卡 Member=R69
+Removed Member From Class: ClassName=采集卡 Member=R70
+Removed Member From Class: ClassName=采集卡 Member=R71
+Removed Member From Class: ClassName=采集卡 Member=R72
+Removed Member From Class: ClassName=采集卡 Member=R73
+Removed Member From Class: ClassName=采集卡 Member=R74
+Removed Member From Class: ClassName=采集卡 Member=R75
+Change Component DesignItemId : Designator=*4 Old DesignItemId=NE5532 New DesignItemId=CD4051
+Change Component DesignItemId : Designator=*5 Old DesignItemId=NE5532 New DesignItemId=CD4051
+Change Component Footprint: Designator=*4 Old Footprint=SOIC8_N New Footprint=SOP16
+Change Component Footprint: Designator=*5 Old Footprint=SOIC8_N New Footprint=SOP16
+Change Component Comment : Designator=*4 Old Comment=NE5532 New Comment=CD4051
+Change Component Comment : Designator=*5 Old Comment=NE5532 New Comment=CD4051
+Change Component Designator: OldDesignator=R26 NewDesignator=R31
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R31 NewDesignator=R30
+Change Component Designator: OldDesignator=R37 NewDesignator=R33
+Change Component Designator: OldDesignator=R38 NewDesignator=R34
+Change Component Designator: OldDesignator=R39 NewDesignator=R35
+Change Component Designator: OldDesignator=R40 NewDesignator=R36
+Change Component Designator: OldDesignator=R45 NewDesignator=R37
+Change Component Designator: OldDesignator=R46 NewDesignator=R38
+Change Component Designator: OldDesignator=R47 NewDesignator=R39
+Change Component Designator: OldDesignator=R48 NewDesignator=R40
+Change Component Designator: OldDesignator=R53 NewDesignator=R45
+Change Component Designator: OldDesignator=R56 NewDesignator=R41
+Change Component Designator: OldDesignator=R57 NewDesignator=R42
+Change Component Designator: OldDesignator=R58 NewDesignator=R43
+Change Component Designator: OldDesignator=R59 NewDesignator=R44
+Change Component Designator: OldDesignator=R60 NewDesignator=R46
+Change Component Designator: OldDesignator=R63 NewDesignator=R47
+Change Component Designator: OldDesignator=R68 NewDesignator=R48
+Change Component Designator: OldDesignator=R69 NewDesignator=R49
+Change Component Designator: OldDesignator=R70 NewDesignator=R50
+Change Component Designator: OldDesignator=R71 NewDesignator=R51
+Added Component: Designator=R28(0603-1)
+Added Pin To Net: NetName=ADC_IN1 Pin=*4-1
+Added Pin To Net: NetName=ADC_IN3 Pin=*4-2
+Added Pin To Net: NetName=ADC_IN2 Pin=*4-5
+Added Pin To Net: NetName=SGND Pin=*4-7
+Added Pin To Net: NetName=SGND Pin=*4-8
+Added Pin To Net: NetName=右前 Pin=*4-12
+Added Pin To Net: NetName=左前 Pin=*4-13
+Added Pin To Net: NetName=左后 Pin=*4-14
+Added Pin To Net: NetName=右后 Pin=*4-15
+Added Pin To Net: NetName=+5V Pin=*4-16
+Added Pin To Net: NetName=IO1 Pin=*5-1
+Added Pin To Net: NetName=IO3 Pin=*5-2
+Added Pin To Net: NetName=IO2 Pin=*5-5
+Added Pin To Net: NetName=SGND Pin=*5-7
+Added Pin To Net: NetName=SGND Pin=*5-8
+Added Pin To Net: NetName=IO0 Pin=*5-12
+Added Pin To Net: NetName=C_ADC_IN1 Pin=*5-13
+Added Pin To Net: NetName=C_ADC_IN2 Pin=*5-14
+Added Pin To Net: NetName=C_ADC_IN3 Pin=*5-15
+Added Pin To Net: NetName=+5V Pin=*5-16
+Added Pin To Net: NetName=Net*3_6 Pin=R28-1
+Added Pin To Net: NetName=SGND Pin=R29-2
+Added Pin To Net: NetName=ADC_A Pin=R26-1
+Added Pin To Net: NetName=ADC_A Pin=R27-2
+Added Pin To Net: NetName=ADC_A Pin=STM1-26
+Added Net: Name=ADC_A
+Added Pin To Net: NetName=ADC_B Pin=R28-2
+Added Pin To Net: NetName=ADC_B Pin=R29-1
+Added Pin To Net: NetName=ADC_B Pin=STM1-29
+Added Net: Name=ADC_B
+Added Pin To Net: NetName=ADC_IN4 Pin=*4-4
+Added Pin To Net: NetName=ADC_IN4 Pin=Signal1-4
+Added Net: Name=ADC_IN4
+Added Pin To Net: NetName=COM_A Pin=*3-3
+Added Pin To Net: NetName=COM_A Pin=*4-3
+Added Pin To Net: NetName=COM_A Pin=R30-2
+Added Net: Name=COM_A
+Added Pin To Net: NetName=COM_B Pin=*3-5
+Added Pin To Net: NetName=COM_B Pin=*5-3
+Added Pin To Net: NetName=COM_B Pin=R32-1
+Added Net: Name=COM_B
+Added Pin To Net: NetName=CTR_A Pin=*4-11
+Added Pin To Net: NetName=CTR_A Pin=*5-11
+Added Net: Name=CTR_A
+Added Pin To Net: NetName=CTR_B Pin=*4-10
+Added Pin To Net: NetName=CTR_B Pin=*5-10
+Added Net: Name=CTR_B
+Added Pin To Net: NetName=CTR_C Pin=*4-9
+Added Pin To Net: NetName=CTR_C Pin=*5-9
+Added Net: Name=CTR_C
+Added Pin To Net: NetName=INH_A Pin=*4-6
+Added Pin To Net: NetName=INH_A Pin=STM1-30
+Added Net: Name=INH_A
+Added Pin To Net: NetName=INH_B Pin=*5-6
+Added Pin To Net: NetName=INH_B Pin=STM1-31
+Added Net: Name=INH_B
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=NetR45_1 Pin=Signal1-3
+Added Net: Name=NetR45_1
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR46_1 Pin=Signal1-2
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=Signal1-1
+Added Net: Name=NetR47_1
+Added Room: Name=采集卡

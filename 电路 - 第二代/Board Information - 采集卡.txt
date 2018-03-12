@@ -1,0 +1,34 @@
+Board Information Report
+Filename     : E:\Disk E\Formula Student China\电气\2016\数据采集系统\电路 - 副本 - 副本\采集卡.PcbDoc
+Date         : 2016/7/13
+Time         : 上午 08:25:57
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 402
+    Connections routed, 402
+    Connections remaining, 0
+count : 4
+
+Track Width, Count
+    0.5mils, 37
+    3.937mils, 319
+    4mils, 206
+    5mils, 2052
+    7mils, 14
+    7.874mils, 217
+    8mils, 37
+    10mils, 960
+    12mils, 9
+    15mils, 401
+    20mils, 180
+    25mils, 149
+    30mils, 30
+    40mils, 101
+    50mils, 14
+count : 15
+
+Net Via Size, Count
+    50mils, 144
+count : 1

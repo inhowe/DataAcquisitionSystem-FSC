@@ -1,0 +1,92 @@
+Removed Member From Class: ClassName=采集卡 Member=J?
+Removed Member From Class: ClassName=采集卡 Member=R?
+Change Component Designator: OldDesignator=* NewDesignator=*5
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=J1 NewDesignator=J5
+Change Component Designator: OldDesignator=J2 NewDesignator=J6
+Change Component Designator: OldDesignator=J3 NewDesignator=J7
+Change Component Designator: OldDesignator=J4 NewDesignator=J8
+Change Component Designator: OldDesignator=J5 NewDesignator=J9
+Change Component Designator: OldDesignator=J6 NewDesignator=J10
+Change Component Designator: OldDesignator=J7 NewDesignator=J11
+Change Component Designator: OldDesignator=J8 NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Change Component Designator: OldDesignator=R23 NewDesignator=R25
+Change Component Designator: OldDesignator=R24 NewDesignator=R26
+Change Component Designator: OldDesignator=R25 NewDesignator=R27
+Change Component Designator: OldDesignator=R26 NewDesignator=R28
+Change Component Designator: OldDesignator=R27 NewDesignator=R29
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R29 NewDesignator=R31
+Change Component Designator: OldDesignator=R30 NewDesignator=R32
+Change Component Designator: OldDesignator=R31 NewDesignator=R33
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R35
+Change Component Designator: OldDesignator=R34 NewDesignator=R36
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R38
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R38 NewDesignator=R40
+Change Component Designator: OldDesignator=R39 NewDesignator=R41
+Change Component Designator: OldDesignator=R40 NewDesignator=R42
+Change Component Designator: OldDesignator=R41 NewDesignator=R44
+Change Component Designator: OldDesignator=R42 NewDesignator=R45
+Change Component Designator: OldDesignator=R43 NewDesignator=R46
+Change Component Designator: OldDesignator=R44 NewDesignator=R47
+Change Component Designator: OldDesignator=R45 NewDesignator=R48
+Change Component Designator: OldDesignator=R46 NewDesignator=R49
+Change Component Designator: OldDesignator=R47 NewDesignator=R50
+Change Component Designator: OldDesignator=R48 NewDesignator=R51
+Change Component Designator: OldDesignator=R49 NewDesignator=R52
+Change Component Designator: OldDesignator=R50 NewDesignator=R53
+Change Component Designator: OldDesignator=R51 NewDesignator=R54
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net*5_1
+Change Net Name : Old Net Name=Net*_8 New Net Name=Net*5_8
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ10_1
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ11_1
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=NetJ12_1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR48_1
+Change Net Name : Old Net Name=NetR46_1 New Net Name=NetR49_1
+Change Net Name : Old Net Name=NetR47_1 New Net Name=NetR50_1
+Added Member To Class: ClassName=采集卡 Member=Component C32 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C33 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C34 Cap
+Added Member To Class: ClassName=采集卡 Member=Component J9 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component J10 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component J11 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component J12 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component R52 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R53 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R54 Res1

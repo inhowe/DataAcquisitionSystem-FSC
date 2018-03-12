@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RTC_CLK Pin=U1-86
+Removed Pin From Net: NetName=RTC_IO Pin=U1-87
+Removed Pin From Net: NetName=RTC_RST Pin=U1-88
+Added Pin To Net: NetName=RTC_RST Pin=U1-1
+Added Pin To Net: NetName=RTC_CLK Pin=U1-97
+Added Pin To Net: NetName=RTC_IO Pin=U1-98
+Added Member To Class: ClassName=采集卡 Member=Component C21 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C22 6pf

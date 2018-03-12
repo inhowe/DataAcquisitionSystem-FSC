@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SGND Pin=R31-2
+Removed Pin From Net: NetName=SGND Pin=R34-2
+Removed Member From Class: ClassName=采集卡 Member=R30
+Removed Member From Class: ClassName=采集卡 Member=R31
+Removed Member From Class: ClassName=采集卡 Member=R34

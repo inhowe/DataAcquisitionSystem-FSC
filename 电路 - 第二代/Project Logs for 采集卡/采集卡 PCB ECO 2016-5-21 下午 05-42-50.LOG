@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ADC_A Pin=STM1-26
+Removed Pin From Net: NetName=INH Pin=STM1-29
+Removed Pin From Net: NetName=CTR_A Pin=STM1-30
+Removed Pin From Net: NetName=CTR_B Pin=STM1-31
+Removed Pin From Net: NetName=CTR_C Pin=STM1-32
+Removed Pin From Net: NetName=CTR_D Pin=STM1-67
+Added Pin To Net: NetName=CTR_A Pin=STM1-15
+Added Pin To Net: NetName=CTR_B Pin=STM1-16
+Added Pin To Net: NetName=CTR_C Pin=STM1-17
+Added Pin To Net: NetName=CTR_D Pin=STM1-18
+Added Pin To Net: NetName=PWM3 Pin=STM1-26
+Added Pin To Net: NetName=ADC_A Pin=STM1-29
+Added Pin To Net: NetName=INH Pin=STM1-33
+Added Member To Class: ClassName=采集卡 Member=Component *5 AD623
+Added Member To Class: ClassName=采集卡 Member=Component J1 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component J2 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component J3 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component J4 TLP281
+Added Member To Class: ClassName=采集卡 Member=Component R43 Res1

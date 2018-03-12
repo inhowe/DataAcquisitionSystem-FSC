@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CAP_IN3 Pin=Signal1-18
+Removed Pin From Net: NetName=CAP_IN2 Pin=Signal1-19
+Removed Pin From Net: NetName=CAP_IN1 Pin=Signal1-20
+Removed Pin From Net: NetName=CAP_IN0 Pin=Signal1-21
+Removed Pin From Net: NetName=PWM_O3 Pin=Signal1-22
+Removed Pin From Net: NetName=PWM_O2 Pin=Signal1-23
+Removed Pin From Net: NetName=PWM_O1 Pin=Signal1-24
+Removed Pin From Net: NetName=PWM_O0 Pin=Signal1-25
+Added Pin To Net: NetName=PWM_O3 Pin=Signal1-18
+Added Pin To Net: NetName=PWM_O2 Pin=Signal1-19
+Added Pin To Net: NetName=PWM_O1 Pin=Signal1-20
+Added Pin To Net: NetName=PWM_O0 Pin=Signal1-21
+Added Pin To Net: NetName=CAP_IN3 Pin=Signal1-22
+Added Pin To Net: NetName=CAP_IN2 Pin=Signal1-23
+Added Pin To Net: NetName=CAP_IN1 Pin=Signal1-24
+Added Pin To Net: NetName=CAP_IN0 Pin=Signal1-25

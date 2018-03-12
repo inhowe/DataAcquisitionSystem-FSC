@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SD_CD Pin=J?-10
+Added Pin To Net: NetName=SD_CD Pin=STM1-36
+Added Net: Name=SD_CD

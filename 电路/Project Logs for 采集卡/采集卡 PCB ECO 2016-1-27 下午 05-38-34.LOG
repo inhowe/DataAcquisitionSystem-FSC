@@ -1,0 +1,52 @@
+Change Component Comment : Designator=J5 Old Comment=D Connector 15 New Comment=电源
+Change Component Comment : Designator=J4 Old Comment=D Connector 25 New Comment=信号
+Change Component Designator: OldDesignator=*1 NewDesignator=nRF
+Change Component Designator: OldDesignator=*2 NewDesignator=DS1302
+Change Component Designator: OldDesignator=*3 NewDesignator=天线
+Change Component Designator: OldDesignator=*4 NewDesignator=NEO-6M
+Change Component Designator: OldDesignator=1 NewDesignator=12M
+Change Component Designator: OldDesignator=AMS1 NewDesignator=1117
+Change Component Designator: OldDesignator=BT1 NewDesignator=Bat
+Change Component Designator: OldDesignator=can1 NewDesignator=TJA1050
+Change Component Designator: OldDesignator=CH1 NewDesignator=CH340
+Change Component Designator: OldDesignator=D3 NewDesignator=RX
+Change Component Designator: OldDesignator=D4 NewDesignator=5V
+Change Component Designator: OldDesignator=D6 NewDesignator=TX
+Change Component Designator: OldDesignator=D7 NewDesignator=3V
+Change Component Designator: OldDesignator=D8 NewDesignator=LED1
+Change Component Designator: OldDesignator=D9 NewDesignator=LED2
+Change Component Designator: OldDesignator=D11 NewDesignator=PCC
+Change Component Designator: OldDesignator=F1 NewDesignator=Fuse
+Change Component Designator: OldDesignator=J1 NewDesignator=SDCard
+Change Component Designator: OldDesignator=J2 NewDesignator=串口
+Change Component Designator: OldDesignator=J3 NewDesignator=STLINK
+Change Component Designator: OldDesignator=MPU1 NewDesignator=6050
+Change Component Designator: OldDesignator=R8 NewDesignator=0hm
+Change Component Designator: OldDesignator=S1 NewDesignator=RST
+Change Component Designator: OldDesignator=U1 NewDesignator=STM32
+Change Component Designator: OldDesignator=U2 NewDesignator=2596
+Change Component Designator: OldDesignator=U3 NewDesignator=AT24C02
+Change Component Designator: OldDesignator=XTAL1 NewDesignator=8M
+Change Net Name : Old Net Name=Net1_1 New Net Name=Net12M_1
+Change Net Name : Old Net Name=Net1_2 New Net Name=Net12M_2
+Change Net Name : Old Net Name=Net*2_2 New Net Name=NetC20_2
+Change Net Name : Old Net Name=Net*2_3 New Net Name=NetC22_2
+Change Net Name : Old Net Name=Net*3_1 New Net Name=NetL2_2
+Change Net Name : Old Net Name=Net*4_9 New Net Name=NetNEO-6M_9
+Change Net Name : Old Net Name=Net*4_20 New Net Name=NetNEO-6M_20
+Change Net Name : Old Net Name=Net*4_21 New Net Name=NetNEO-6M_21
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Net2596_1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=Net6050_20
+Change Net Name : Old Net Name=NetC9_2 New Net Name=Net8M_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=Net8M_1
+Change Net Name : Old Net Name=NetC15_1 New Net Name=Net6050_10
+Change Net Name : Old Net Name=NetCH1_13 New Net Name=NetCH340_13
+Change Net Name : Old Net Name=NetCH1_14 New Net Name=NetCH340_14
+Change Net Name : Old Net Name=NetD2_2 New Net Name=Net2596_2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=Net5V_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=Net3V_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetPCC_2

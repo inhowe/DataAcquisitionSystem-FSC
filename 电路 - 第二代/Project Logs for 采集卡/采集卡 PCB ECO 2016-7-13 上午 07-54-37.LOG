@@ -1,0 +1,8 @@
+Added Component: Designator=R45(8-RL-0603)
+Added Component: Designator=R46(8-RL-0603)
+Added Pin To Net: NetName=NetR45_1 Pin=R45-1
+Added Pin To Net: NetName=C_ADC_IN1 Pin=R45-2
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=C_ADC_IN2 Pin=R46-2
+Added Member To Class: ClassName=采集卡 Member=Component R45 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R46 Res1

@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator=*5 NewDesignator=*6
+Change Component Designator: OldDesignator=J5 NewDesignator=J1
+Change Component Designator: OldDesignator=J6 NewDesignator=J2
+Change Component Designator: OldDesignator=J7 NewDesignator=J3
+Change Component Designator: OldDesignator=J8 NewDesignator=J4
+Change Component Designator: OldDesignator=J9 NewDesignator=J5
+Change Component Designator: OldDesignator=J10 NewDesignator=J6
+Change Component Designator: OldDesignator=J11 NewDesignator=J7
+Change Component Designator: OldDesignator=J12 NewDesignator=J8
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=R43 NewDesignator=R55
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=NetJ8_1
+Added Pin To Net: NetName=Net*6_1 Pin=*6-1
+Added Pin To Net: NetName=Net*6_1 Pin=R55-1
+Added Net: Name=Net*6_1
+Added Pin To Net: NetName=Net*6_8 Pin=*6-8
+Added Pin To Net: NetName=Net*6_8 Pin=R55-2
+Added Net: Name=Net*6_8
+Added Member To Class: ClassName=采集卡 Member=Component *6 AD623
+Added Member To Class: ClassName=采集卡 Member=Component P2 Header 2
+Added Member To Class: ClassName=采集卡 Member=Component R55 Res1

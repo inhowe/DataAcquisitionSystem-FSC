@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=IRQ Pin=STM1-51
+Added Pin To Net: NetName=IRQ Pin=STM1-55

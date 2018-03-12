@@ -1,0 +1,10 @@
+can：     A11，A12
+uart1：   A9，A10
+加计iic:  b0,b1
+无线spi2: b13,b14,b15    d8,d9,d10
+adc:      c0,c1,c2,c3,c4,c5 ,a4,a5,a6,a7
+四路pwm： a0,a1,a2,a3(tim2ch1-4)
+四路捕获：b6,b7，B8,B9（tim4ch1-4）
+GPS_uart3:B10,B11
+SDcard:   c8,c9,c10,c11,c12,d2
+

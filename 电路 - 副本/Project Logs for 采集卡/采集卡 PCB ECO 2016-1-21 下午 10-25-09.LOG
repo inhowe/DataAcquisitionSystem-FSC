@@ -1,0 +1,516 @@
+Added Component: Designator=*1(nRF24l01贴片)
+Added Component: Designator=*2(SOIC8_N)
+Added Component: Designator=1(X-SM49)
+Added Component: Designator=AMS1(1117-3.3)
+Added Component: Designator=BT1(CR1220)
+Added Component: Designator=C1(C-RB-S10)
+Added Component: Designator=C2(C-RB-S6)
+Added Component: Designator=C3(CL-0603)
+Added Component: Designator=C4(0603-1)
+Added Component: Designator=C5(0603-1)
+Added Component: Designator=C6(0603-1)
+Added Component: Designator=C7(0603-1)
+Added Component: Designator=C8(CL-0603)
+Added Component: Designator=C9(CL-0603)
+Added Component: Designator=C10(CL-0603)
+Added Component: Designator=C11(CL-0603)
+Added Component: Designator=C12(CL-0603)
+Added Component: Designator=C13(CL-0603)
+Added Component: Designator=C14(CL-0603)
+Added Component: Designator=C15(CL-0603)
+Added Component: Designator=C16(CL-0603)
+Added Component: Designator=C17(CL-0603)
+Added Component: Designator=C18(CL-0603)
+Added Component: Designator=C19(CL-0603)
+Added Component: Designator=C20(CL-0603)
+Added Component: Designator=C21(CL-0603)
+Added Component: Designator=C22(0603-1)
+Added Component: Designator=C23(CL-0603)
+Added Component: Designator=C24(CL-0603)
+Added Component: Designator=can1(SOIC8_N)
+Added Component: Designator=CH1(sop16)
+Added Component: Designator=D1(1206)
+Added Component: Designator=D2(1812)
+Added Component: Designator=D3(LED_0805)
+Added Component: Designator=D4(LED_0805)
+Added Component: Designator=D5(DIODE-1206)
+Added Component: Designator=D6(LED_0805)
+Added Component: Designator=D7(LED_0805)
+Added Component: Designator=D8(LED_0805)
+Added Component: Designator=D9(LED_0805)
+Added Component: Designator=F1(1206)
+Added Component: Designator=J1(SDCARD_B)
+Added Component: Designator=J2(USB_MICRO)
+Added Component: Designator=J3(DSUB1.385-2H9)
+Added Component: Designator=J4(DSUB1.385-2H9)
+Added Component: Designator=J5(DSUB1.385-2H15)
+Added Component: Designator=J6(DSUB1.385-2H9)
+Added Component: Designator=L1(L-SMD-12)
+Added Component: Designator=MPU1(QFN24)
+Added Component: Designator=OLED1(OLED-Freescale)
+Added Component: Designator=P1(HDR2X1_A)
+Added Component: Designator=P2(HDR1X5)
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=Q2(SOT-23)
+Added Component: Designator=R1(8-RL-0603)
+Added Component: Designator=R2(8-RL-0603)
+Added Component: Designator=R3(8-RL-0603)
+Added Component: Designator=R4(8-RL-0603)
+Added Component: Designator=R5(8-RL-0603)
+Added Component: Designator=R6(8-RL-0603)
+Added Component: Designator=R7(8-RL-0603)
+Added Component: Designator=R8(0805-3)
+Added Component: Designator=R9(8-RL-0603)
+Added Component: Designator=R10(8-RL-0603)
+Added Component: Designator=R11(8-RL-0603)
+Added Component: Designator=R12(8-RL-0603)
+Added Component: Designator=R13(8-RL-0603)
+Added Component: Designator=R14(8-RL-0603)
+Added Component: Designator=R15(8-RL-0603)
+Added Component: Designator=R16(8-RL-0603)
+Added Component: Designator=R17(8-RL-0603)
+Added Component: Designator=R18(8-RL-0603)
+Added Component: Designator=R19(8-RL-0603)
+Added Component: Designator=R20(8-RL-0603)
+Added Component: Designator=R21(8-RL-0603)
+Added Component: Designator=R22(8-RL-0603)
+Added Component: Designator=S1(HDR2X1_A)
+Added Component: Designator=S2(6x3mm微动)
+Added Component: Designator=SWD1(usb)
+Added Component: Designator=U1(LQFP100_M)
+Added Component: Designator=U2(TO-263-5)
+Added Component: Designator=XTAL1(X-SM49)
+Added Component: Designator=XTAL2(X-TC15)
+Added Pin To Net: NetName=3V3 Pin=*1-1
+Added Pin To Net: NetName=CE Pin=*1-2
+Added Pin To Net: NetName=CSN Pin=*1-3
+Added Pin To Net: NetName=SCK Pin=*1-4
+Added Pin To Net: NetName=MOSI Pin=*1-5
+Added Pin To Net: NetName=MISO Pin=*1-6
+Added Pin To Net: NetName=IRQ Pin=*1-7
+Added Pin To Net: NetName=GND Pin=*1-8
+Added Pin To Net: NetName=3V3 Pin=*2-1
+Added Pin To Net: NetName=Net*2_2 Pin=*2-2
+Added Pin To Net: NetName=Net*2_3 Pin=*2-3
+Added Pin To Net: NetName=GND Pin=*2-4
+Added Pin To Net: NetName=RTC_RST Pin=*2-5
+Added Pin To Net: NetName=RTC_IO Pin=*2-6
+Added Pin To Net: NetName=RTC_CLK Pin=*2-7
+Added Pin To Net: NetName=Net*2_8 Pin=*2-8
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=GND Pin=AMS1-1
+Added Pin To Net: NetName=3V3 Pin=AMS1-2
+Added Pin To Net: NetName=5V Pin=AMS1-3
+Added Pin To Net: NetName=Net*2_8 Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C1-2
+Added Pin To Net: NetName=P_OUT Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=5V Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=Net1_2 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=3V3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=Net1_1 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=3V3 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=3V3 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=RST Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=Net*2_2 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=Net*2_3 Pin=C24-2
+Added Pin To Net: NetName=CANTX Pin=can1-1
+Added Pin To Net: NetName=GND Pin=can1-2
+Added Pin To Net: NetName=5V Pin=can1-3
+Added Pin To Net: NetName=CANRX Pin=can1-4
+Added Pin To Net: NetName=CANL Pin=can1-6
+Added Pin To Net: NetName=CANH Pin=can1-7
+Added Pin To Net: NetName=GND Pin=can1-8
+Added Pin To Net: NetName=GND Pin=CH1-1
+Added Pin To Net: NetName=RX1 Pin=CH1-2
+Added Pin To Net: NetName=TX1 Pin=CH1-3
+Added Pin To Net: NetName=NetC10_1 Pin=CH1-4
+Added Pin To Net: NetName=UD+ Pin=CH1-5
+Added Pin To Net: NetName=UD- Pin=CH1-6
+Added Pin To Net: NetName=Net1_2 Pin=CH1-7
+Added Pin To Net: NetName=Net1_1 Pin=CH1-8
+Added Pin To Net: NetName=NetCH1_13 Pin=CH1-13
+Added Pin To Net: NetName=NetCH1_14 Pin=CH1-14
+Added Pin To Net: NetName=3V3 Pin=CH1-16
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=3V3 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=RST Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=3V3 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=LED1 Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=LED2 Pin=D9-2
+Added Pin To Net: NetName=P_OUT Pin=F1-1
+Added Pin To Net: NetName=5V Pin=F1-2
+Added Pin To Net: NetName=SD_D2 Pin=J1-1
+Added Pin To Net: NetName=SD_D3 Pin=J1-2
+Added Pin To Net: NetName=SD_CMD Pin=J1-3
+Added Pin To Net: NetName=5V Pin=J1-4
+Added Pin To Net: NetName=SD_CLK Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=SD_D0 Pin=J1-7
+Added Pin To Net: NetName=SD_D1 Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=5V Pin=J2-1
+Added Pin To Net: NetName=UD- Pin=J2-2
+Added Pin To Net: NetName=UD+ Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=CANH Pin=J3-1
+Added Pin To Net: NetName=悬架行程—左前 Pin=J3-2
+Added Pin To Net: NetName=悬架行程—右前 Pin=J3-3
+Added Pin To Net: NetName=3V3 Pin=J3-4
+Added Pin To Net: NetName=3V3 Pin=J3-5
+Added Pin To Net: NetName=CANL Pin=J3-6
+Added Pin To Net: NetName=悬架行程—左后 Pin=J3-7
+Added Pin To Net: NetName=悬架行程—右后 Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-11
+Added Pin To Net: NetName=5V Pin=J4-1
+Added Pin To Net: NetName=5V Pin=J4-2
+Added Pin To Net: NetName=5V Pin=J4-3
+Added Pin To Net: NetName=5V Pin=J4-4
+Added Pin To Net: NetName=5V Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J4-6
+Added Pin To Net: NetName=GND Pin=J4-7
+Added Pin To Net: NetName=GND Pin=J4-8
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Pin To Net: NetName=GND Pin=J4-11
+Added Pin To Net: NetName=CAPTURE0 Pin=J5-1
+Added Pin To Net: NetName=CAPTURE1 Pin=J5-2
+Added Pin To Net: NetName=CAPTURE2 Pin=J5-3
+Added Pin To Net: NetName=CAPTURE3 Pin=J5-4
+Added Pin To Net: NetName=PWM0 Pin=J5-5
+Added Pin To Net: NetName=PWM1 Pin=J5-6
+Added Pin To Net: NetName=PWM2 Pin=J5-7
+Added Pin To Net: NetName=PWM3 Pin=J5-8
+Added Pin To Net: NetName=ADC1 Pin=J5-9
+Added Pin To Net: NetName=ADC2 Pin=J5-10
+Added Pin To Net: NetName=ADC3 Pin=J5-11
+Added Pin To Net: NetName=ADC4 Pin=J5-12
+Added Pin To Net: NetName=ADC5 Pin=J5-13
+Added Pin To Net: NetName=ADC6 Pin=J5-14
+Added Pin To Net: NetName=GND Pin=J5-16
+Added Pin To Net: NetName=GND Pin=J5-17
+Added Pin To Net: NetName=IO0 Pin=J6-1
+Added Pin To Net: NetName=IO1 Pin=J6-2
+Added Pin To Net: NetName=IO2 Pin=J6-3
+Added Pin To Net: NetName=IO3 Pin=J6-4
+Added Pin To Net: NetName=IO4 Pin=J6-5
+Added Pin To Net: NetName=IO5 Pin=J6-6
+Added Pin To Net: NetName=IO6 Pin=J6-7
+Added Pin To Net: NetName=IO7 Pin=J6-8
+Added Pin To Net: NetName=IO8 Pin=J6-9
+Added Pin To Net: NetName=GND Pin=J6-10
+Added Pin To Net: NetName=GND Pin=J6-11
+Added Pin To Net: NetName=NetD2_2 Pin=L1-1
+Added Pin To Net: NetName=P_OUT Pin=L1-2
+Added Pin To Net: NetName=GND Pin=MPU1-1
+Added Pin To Net: NetName=3V3 Pin=MPU1-8
+Added Pin To Net: NetName=GND Pin=MPU1-9
+Added Pin To Net: NetName=NetC15_1 Pin=MPU1-10
+Added Pin To Net: NetName=GND Pin=MPU1-11
+Added Pin To Net: NetName=INT Pin=MPU1-12
+Added Pin To Net: NetName=3V3 Pin=MPU1-13
+Added Pin To Net: NetName=GND Pin=MPU1-18
+Added Pin To Net: NetName=NetC3_1 Pin=MPU1-20
+Added Pin To Net: NetName=SCL Pin=MPU1-23
+Added Pin To Net: NetName=SDA Pin=MPU1-24
+Added Pin To Net: NetName=GND Pin=OLED1-1
+Added Pin To Net: NetName=3V3 Pin=OLED1-2
+Added Pin To Net: NetName=OLED_D0 Pin=OLED1-3
+Added Pin To Net: NetName=OLED_D1 Pin=OLED1-4
+Added Pin To Net: NetName=OLED_RST Pin=OLED1-5
+Added Pin To Net: NetName=OLED_DS Pin=OLED1-6
+Added Pin To Net: NetName=GND Pin=OLED1-7
+Added Pin To Net: NetName=AGND Pin=P1-1
+Added Pin To Net: NetName=NetD1_1 Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=RX3GPS Pin=P2-3
+Added Pin To Net: NetName=TX3GPS Pin=P2-4
+Added Pin To Net: NetName=PCCGPS Pin=P2-5
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetCH1_14 Pin=Q1-2
+Added Pin To Net: NetName=NetD5_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=3V3 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=CANL Pin=R1-1
+Added Pin To Net: NetName=CANH Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=SD_D2 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R3-1
+Added Pin To Net: NetName=SD_D3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Pin To Net: NetName=SD_CMD Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-1
+Added Pin To Net: NetName=SD_D0 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-1
+Added Pin To Net: NetName=SD_D1 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-1
+Added Pin To Net: NetName=SCL Pin=R7-2
+Added Pin To Net: NetName=AGND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=3V3 Pin=R9-1
+Added Pin To Net: NetName=SDA Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=RX1 Pin=R11-1
+Added Pin To Net: NetName=NetD4_2 Pin=R11-2
+Added Pin To Net: NetName=NetD3_1 Pin=R12-1
+Added Pin To Net: NetName=5V Pin=R12-2
+Added Pin To Net: NetName=3V3 Pin=R13-1
+Added Pin To Net: NetName=NetD5_2 Pin=R13-2
+Added Pin To Net: NetName=TX1 Pin=R14-1
+Added Pin To Net: NetName=NetD7_2 Pin=R14-2
+Added Pin To Net: NetName=NetD6_1 Pin=R15-1
+Added Pin To Net: NetName=3V3 Pin=R15-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R16-1
+Added Pin To Net: NetName=NetCH1_13 Pin=R16-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R17-1
+Added Pin To Net: NetName=NetCH1_14 Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=BT0 Pin=R18-2
+Added Pin To Net: NetName=BT0 Pin=R19-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R19-2
+Added Pin To Net: NetName=NetD8_1 Pin=R20-1
+Added Pin To Net: NetName=3V3 Pin=R20-2
+Added Pin To Net: NetName=NetD9_1 Pin=R21-1
+Added Pin To Net: NetName=3V3 Pin=R21-2
+Added Pin To Net: NetName=3V3 Pin=R22-1
+Added Pin To Net: NetName=RST Pin=R22-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=RST Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=RST Pin=S2-2
+Added Pin To Net: NetName=5V Pin=SWD1-1
+Added Pin To Net: NetName=SWCLK Pin=SWD1-2
+Added Pin To Net: NetName=GND Pin=SWD1-3
+Added Pin To Net: NetName=SWDIO Pin=SWD1-4
+Added Pin To Net: NetName=IO2 Pin=U1-1
+Added Pin To Net: NetName=IO3 Pin=U1-2
+Added Pin To Net: NetName=IO4 Pin=U1-3
+Added Pin To Net: NetName=IO5 Pin=U1-4
+Added Pin To Net: NetName=IO6 Pin=U1-5
+Added Pin To Net: NetName=3V3 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=3V3 Pin=U1-11
+Added Pin To Net: NetName=NetC8_2 Pin=U1-12
+Added Pin To Net: NetName=NetC12_2 Pin=U1-13
+Added Pin To Net: NetName=RST Pin=U1-14
+Added Pin To Net: NetName=ADC1 Pin=U1-15
+Added Pin To Net: NetName=ADC2 Pin=U1-16
+Added Pin To Net: NetName=ADC3 Pin=U1-17
+Added Pin To Net: NetName=ADC4 Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=3V3 Pin=U1-21
+Added Pin To Net: NetName=3V3 Pin=U1-22
+Added Pin To Net: NetName=PWM0 Pin=U1-23
+Added Pin To Net: NetName=PWM1 Pin=U1-24
+Added Pin To Net: NetName=PWM2 Pin=U1-25
+Added Pin To Net: NetName=PWM3 Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-27
+Added Pin To Net: NetName=3V3 Pin=U1-28
+Added Pin To Net: NetName=悬架行程—右前 Pin=U1-29
+Added Pin To Net: NetName=悬架行程—左前 Pin=U1-30
+Added Pin To Net: NetName=悬架行程—右后 Pin=U1-31
+Added Pin To Net: NetName=悬架行程—左后 Pin=U1-32
+Added Pin To Net: NetName=ADC5 Pin=U1-33
+Added Pin To Net: NetName=ADC6 Pin=U1-34
+Added Pin To Net: NetName=SCL Pin=U1-35
+Added Pin To Net: NetName=SDA Pin=U1-36
+Added Pin To Net: NetName=NetR10_2 Pin=U1-37
+Added Pin To Net: NetName=IO7 Pin=U1-38
+Added Pin To Net: NetName=IO8 Pin=U1-39
+Added Pin To Net: NetName=TX3GPS Pin=U1-47
+Added Pin To Net: NetName=RX3GPS Pin=U1-48
+Added Pin To Net: NetName=GND Pin=U1-49
+Added Pin To Net: NetName=3V3 Pin=U1-50
+Added Pin To Net: NetName=PCCGPS Pin=U1-51
+Added Pin To Net: NetName=SCK Pin=U1-52
+Added Pin To Net: NetName=MISO Pin=U1-53
+Added Pin To Net: NetName=MOSI Pin=U1-54
+Added Pin To Net: NetName=IRQ Pin=U1-55
+Added Pin To Net: NetName=CE Pin=U1-56
+Added Pin To Net: NetName=CSN Pin=U1-57
+Added Pin To Net: NetName=OLED_D0 Pin=U1-58
+Added Pin To Net: NetName=OLED_D1 Pin=U1-59
+Added Pin To Net: NetName=OLED_RST Pin=U1-60
+Added Pin To Net: NetName=OLED_DS Pin=U1-61
+Added Pin To Net: NetName=SD_D0 Pin=U1-65
+Added Pin To Net: NetName=SD_D1 Pin=U1-66
+Added Pin To Net: NetName=TX1 Pin=U1-68
+Added Pin To Net: NetName=RX1 Pin=U1-69
+Added Pin To Net: NetName=CANRX Pin=U1-70
+Added Pin To Net: NetName=CANTX Pin=U1-71
+Added Pin To Net: NetName=SWDIO Pin=U1-72
+Added Pin To Net: NetName=NC Pin=U1-73
+Added Pin To Net: NetName=GND Pin=U1-74
+Added Pin To Net: NetName=3V3 Pin=U1-75
+Added Pin To Net: NetName=SWCLK Pin=U1-76
+Added Pin To Net: NetName=INT Pin=U1-77
+Added Pin To Net: NetName=SD_D2 Pin=U1-78
+Added Pin To Net: NetName=SD_D3 Pin=U1-79
+Added Pin To Net: NetName=SD_CLK Pin=U1-80
+Added Pin To Net: NetName=LED1 Pin=U1-81
+Added Pin To Net: NetName=LED2 Pin=U1-82
+Added Pin To Net: NetName=SD_CMD Pin=U1-83
+Added Pin To Net: NetName=RTC_CLK Pin=U1-86
+Added Pin To Net: NetName=RTC_IO Pin=U1-87
+Added Pin To Net: NetName=RTC_RST Pin=U1-88
+Added Pin To Net: NetName=CAPTURE0 Pin=U1-92
+Added Pin To Net: NetName=CAPTURE1 Pin=U1-93
+Added Pin To Net: NetName=BT0 Pin=U1-94
+Added Pin To Net: NetName=CAPTURE2 Pin=U1-95
+Added Pin To Net: NetName=CAPTURE3 Pin=U1-96
+Added Pin To Net: NetName=IO0 Pin=U1-97
+Added Pin To Net: NetName=IO1 Pin=U1-98
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=3V3 Pin=U1-100
+Added Pin To Net: NetName=NetC1_1 Pin=U2-1
+Added Pin To Net: NetName=NetD2_2 Pin=U2-2
+Added Pin To Net: NetName=AGND Pin=U2-3
+Added Pin To Net: NetName=P_OUT Pin=U2-4
+Added Pin To Net: NetName=AGND Pin=U2-5
+Added Pin To Net: NetName=NetC12_2 Pin=XTAL1-1
+Added Pin To Net: NetName=NetC8_2 Pin=XTAL1-2
+Added Pin To Net: NetName=Net*2_3 Pin=XTAL2-1
+Added Pin To Net: NetName=Net*2_2 Pin=XTAL2-2
+Added Member To Class: ClassName=采集卡 Member=Component *1 nRF24l01贴片
+Added Member To Class: ClassName=采集卡 Member=Component *2 DS1302
+Added Member To Class: ClassName=采集卡 Member=Component 1 12M
+Added Member To Class: ClassName=采集卡 Member=Component AMS1 AMS1117
+Added Member To Class: ClassName=采集卡 Member=Component BT1 Battery
+Added Member To Class: ClassName=采集卡 Member=Component C1 Cap Pol
+Added Member To Class: ClassName=采集卡 Member=Component C2 Cap Pol
+Added Member To Class: ClassName=采集卡 Member=Component C3 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C4 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C5 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C6 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C7 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C8 22pf
+Added Member To Class: ClassName=采集卡 Member=Component C9 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C10 104
+Added Member To Class: ClassName=采集卡 Member=Component C11 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C12 22pf
+Added Member To Class: ClassName=采集卡 Member=Component C13 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C14 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C15 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C16 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C17 104
+Added Member To Class: ClassName=采集卡 Member=Component C18 104
+Added Member To Class: ClassName=采集卡 Member=Component C19 104
+Added Member To Class: ClassName=采集卡 Member=Component C20 104
+Added Member To Class: ClassName=采集卡 Member=Component C21 104
+Added Member To Class: ClassName=采集卡 Member=Component C22 Cap
+Added Member To Class: ClassName=采集卡 Member=Component C23 6pf
+Added Member To Class: ClassName=采集卡 Member=Component C24 6pf
+Added Member To Class: ClassName=采集卡 Member=Component can1 TJA1050
+Added Member To Class: ClassName=采集卡 Member=Component CH1 CH340G
+Added Member To Class: ClassName=采集卡 Member=Component D1 1N4007
+Added Member To Class: ClassName=采集卡 Member=Component D2 1N5824
+Added Member To Class: ClassName=采集卡 Member=Component D3 LED0
+Added Member To Class: ClassName=采集卡 Member=Component D4 LED0
+Added Member To Class: ClassName=采集卡 Member=Component D5 Diode
+Added Member To Class: ClassName=采集卡 Member=Component D6 LED0
+Added Member To Class: ClassName=采集卡 Member=Component D7 LED0
+Added Member To Class: ClassName=采集卡 Member=Component D8 LED0
+Added Member To Class: ClassName=采集卡 Member=Component D9 LED0
+Added Member To Class: ClassName=采集卡 Member=Component F1 自恢复保险丝
+Added Member To Class: ClassName=采集卡 Member=Component J1 SDCARD-M
+Added Member To Class: ClassName=采集卡 Member=Component J2 USB_M
+Added Member To Class: ClassName=采集卡 Member=Component J3 D Connector 9
+Added Member To Class: ClassName=采集卡 Member=Component J4 D Connector 9
+Added Member To Class: ClassName=采集卡 Member=Component J5 D Connector 15
+Added Member To Class: ClassName=采集卡 Member=Component J6 D Connector 9
+Added Member To Class: ClassName=采集卡 Member=Component L1 Inductor
+Added Member To Class: ClassName=采集卡 Member=Component MPU1 MPU6050
+Added Member To Class: ClassName=采集卡 Member=Component OLED1 OLED-Freescale
+Added Member To Class: ClassName=采集卡 Member=Component P1 电源插头
+Added Member To Class: ClassName=采集卡 Member=Component P2 GPS
+Added Member To Class: ClassName=采集卡 Member=Component Q1 SS8050
+Added Member To Class: ClassName=采集卡 Member=Component Q2 SS8550
+Added Member To Class: ClassName=采集卡 Member=Component R1 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R2 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R3 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R4 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R5 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R6 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R7 10K
+Added Member To Class: ClassName=采集卡 Member=Component R8 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R9 10K
+Added Member To Class: ClassName=采集卡 Member=Component R10 10K
+Added Member To Class: ClassName=采集卡 Member=Component R11 472
+Added Member To Class: ClassName=采集卡 Member=Component R12 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R13 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R14 472
+Added Member To Class: ClassName=采集卡 Member=Component R15 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R16 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R17 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R18 10K
+Added Member To Class: ClassName=采集卡 Member=Component R19 Res1
+Added Member To Class: ClassName=采集卡 Member=Component R20 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R21 Res2
+Added Member To Class: ClassName=采集卡 Member=Component R22 Res2
+Added Member To Class: ClassName=采集卡 Member=Component S1 外接复位
+Added Member To Class: ClassName=采集卡 Member=Component S2 复位
+Added Member To Class: ClassName=采集卡 Member=Component SWD1 USB
+Added Member To Class: ClassName=采集卡 Member=Component U1 STM32F103VBT6
+Added Member To Class: ClassName=采集卡 Member=Component U2 LM2596S-5.0
+Added Member To Class: ClassName=采集卡 Member=Component XTAL1 晶振
+Added Member To Class: ClassName=采集卡 Member=Component XTAL2 晶振
+Added Room: Name=采集卡

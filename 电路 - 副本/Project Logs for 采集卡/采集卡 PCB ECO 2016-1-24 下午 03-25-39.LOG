@@ -1,0 +1,7 @@
+Added Component: Designator=D8(DIODE-1206)
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD8_1 Pin=D3-1
+Added Pin To Net: NetName=NetD8_1 Pin=R21-1
+Added Net: Name=NetD8_1
+Added Member To Class: ClassName=采集卡 Member=Component D8 LED0
+Added Room: Name=采集卡

@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=NEO-6M NewDesignator=GPS-NEO-6M
+Change Net Name : Old Net Name=NetNEO-6M_9 New Net Name=NetGPS-NEO-6M_9
+Change Net Name : Old Net Name=NetNEO-6M_20 New Net Name=NetGPS-NEO-6M_20
+Change Net Name : Old Net Name=NetNEO-6M_21 New Net Name=NetGPS-NEO-6M_21
