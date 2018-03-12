@@ -1,5 +1,0 @@
-Added Component: Designator=J8(SOP127P710X350-4N)
-Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
-Added Pin To Net: NetName=CAP_IN3 Pin=J8-2
-Added Pin To Net: NetName=GND Pin=J8-3
-Added Pin To Net: NetName=CAPTURE3 Pin=J8-4

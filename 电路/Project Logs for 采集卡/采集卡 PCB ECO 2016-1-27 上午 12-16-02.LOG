@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=RTC_IO Pin=U1-1
-Removed Pin From Net: NetName=RTC_CLK Pin=U1-2
-Added Pin To Net: NetName=RTC_CLK Pin=U1-1
-Added Pin To Net: NetName=RTC_IO Pin=U1-2

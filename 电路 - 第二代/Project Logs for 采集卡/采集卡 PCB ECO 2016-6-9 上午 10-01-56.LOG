@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=AGND Pin=P1-1
-Removed Member From Class: ClassName=²É¼¯¿¨ Member=P1
-Added Component: Designator=12V(CHECK-A)
-Added Component: Designator=GND(CHECK-A)
-Added Pin To Net: NetName=AGND Pin=GND-1
-Added Pin To Net: NetName=Net12V_1 Pin=12V-1
-Added Pin To Net: NetName=Net12V_1 Pin=D1-1
-Added Pin To Net: NetName=Net12V_1 Pin=D3-2
-Added Net: Name=Net12V_1

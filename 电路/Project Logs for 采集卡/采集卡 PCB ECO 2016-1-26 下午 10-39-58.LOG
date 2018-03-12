@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=悬架行程—右前 Pin=U1-29
-Removed Pin From Net: NetName=悬架行程—左前 Pin=U1-30
-Removed Pin From Net: NetName=悬架行程—左后 Pin=U1-32
-Added Pin To Net: NetName=悬架行程—左前 Pin=U1-29
-Added Pin To Net: NetName=悬架行程—左后 Pin=U1-30
-Added Pin To Net: NetName=悬架行程—右前 Pin=U1-32

@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=D3-2
-Removed Pin From Net: NetName=LED1 Pin=D6-2
-Removed Pin From Net: NetName=LED2 Pin=D7-2
-Removed Pin From Net: NetName=GND Pin=D9-2
-Added Component: Designator=D8(DIODE-1206)
-Added Member To Class: ClassName=²É¼¯¿¨ Member=Component D8 LED0

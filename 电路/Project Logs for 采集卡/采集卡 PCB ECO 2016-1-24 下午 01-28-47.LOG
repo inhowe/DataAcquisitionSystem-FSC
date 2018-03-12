@@ -1,9 +1,0 @@
-Change Component Footprint: Designator=R23 Old Footprint=0603-1 New Footprint=8-RL-0603
-Change Component Footprint: Designator=R24 Old Footprint=0603-1 New Footprint=8-RL-0603
-Change Component Footprint: Designator=R25 Old Footprint=0603-1 New Footprint=8-RL-0603
-Change Component Comment : Designator=C2 Old Comment=Cap Pol New Comment=220uF/16V
-Change Component Comment : Designator=C1 Old Comment=Cap Pol New Comment=680uF/35V
-Change Component Comment : Designator=R8 Old Comment=Res1 New Comment=0
-Change Component Comment : Designator=R13 Old Comment=Res1 New Comment=10K
-Change Component Comment : Designator=XTAL1 Old Comment=¾§Õñ New Comment=8M
-Change Component Comment : Designator=XTAL2 Old Comment=¾§Õñ New Comment=32.768K

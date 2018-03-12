@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IO3 Pin=STM1-58
-Removed Pin From Net: NetName=IO2 Pin=STM1-59
-Removed Pin From Net: NetName=IO1 Pin=STM1-60
-Removed Pin From Net: NetName=IO0 Pin=STM1-61
-Added Pin To Net: NetName=IO0 Pin=STM1-58
-Added Pin To Net: NetName=IO1 Pin=STM1-59
-Added Pin To Net: NetName=IO2 Pin=STM1-60
-Added Pin To Net: NetName=IO3 Pin=STM1-61

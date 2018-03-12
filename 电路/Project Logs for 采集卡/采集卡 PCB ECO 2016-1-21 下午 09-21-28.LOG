@@ -1,4 +1,0 @@
-Added Component: Designator=P1(HDR2X1_A)
-Added Pin To Net: NetName=AGND Pin=P1-1
-Added Pin To Net: NetName=NetD1_1 Pin=P1-2
-Added Member To Class: ClassName=采集卡 Member=Component P1 电源插头
